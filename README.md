@@ -1,6 +1,8 @@
 # Projeto-carrinho-de-compras
 Trabalho módulo Framework - Luiza Code
 
+<img src="logo_luizacode.png" >
+
 Primeiro exercicío para entrega no Bootcamp Luiza Code onde criamos um Carrinho de compras com suas funcionalidades:
 
 ● Cadastrar um usuário com um nome e um e-mail. 
