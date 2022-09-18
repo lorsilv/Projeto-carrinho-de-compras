@@ -168,5 +168,5 @@ async def deletar_carrinho(id_usuario: int):
 
 @app.get("/")
 async def bem_vinda():
-    site = "Seja bem-vinde!"
+    site = "Seja bem-vinda!"
     return site.replace('\n', '')
